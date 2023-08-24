@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Bassant Khataam</h1>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=9F1372&center=true&vCenter=true&width=1000&height=30&lines=Flutter+Develper+)](https://git.io/typing-svg)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bassant-khataam-067810232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bassant-khataam-067810232" height="30" width="40" /></a>
